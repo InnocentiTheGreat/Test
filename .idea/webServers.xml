@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d6f7bb39-74bc-4703-b3e6-d660b6a3adf9" name="marefx.com" url="http://marefx.com">
+        <fileTransfer host="marefx.com" port="22" privateKey="C:\Users\marko\Desktop\mare f.ppk" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
